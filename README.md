@@ -1,7 +1,7 @@
 
 ---
 
-## 2️⃣ Food Management & Ordering Web App – README
+Food Management & Ordering Web App – README
 
 ```markdown
 # Food Management & Ordering Web App
