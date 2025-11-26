@@ -59,7 +59,7 @@ A full-stack food ordering platform with a merchant-facing backend for order man
 
 ## Project Structure
 
-A simplified structure (may vary slightly in your repo):
+A simplified structure:
 
 ```text
 food-management-and-ordering/
